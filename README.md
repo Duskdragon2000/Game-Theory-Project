@@ -5,8 +5,7 @@ of the mode the user entered the code ask the user for the number of rows and co
 normal form. Your code should be able to handle sizes of 1x1 to 9x9 without any display issues. 
 
 2) If the random mode is selected the application will display the strategy spaces and payoffs of
-players 1 and 2. Note in random mode the random payoffs are integers that range from -99 to
-99.
+players 1 and 2. Note in random mode the random payoffs are integers that range from -99 to 99.
 
 3) The application will display the normal form of the game. Make sure your code can handle
 normal forms of size 1x1 to 9x9 without alignment issues. player1 strategies are
