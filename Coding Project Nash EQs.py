@@ -1,18 +1,7 @@
 import random
 
 #=============================================================================
-# PROGRAMMER1: Albert De Armas
-# PANTHER ID1: 5865250
-# CLASS: Your class: CAP 5507
-#
-# SEMESTER: SPRING 2023
-# CLASSTIME: Tuesdays 7pm - 8pm
-#
 # Project: Given user input or random numbers, generate normal form games and get their nash eqs, payoffs, ect.
-# DUE: Sunday, April 16, 2023
-#
-# CERTIFICATION: I certify that this work is my own and that
-# none of it is the work of any other person.
 #=============================================================================
 
 
